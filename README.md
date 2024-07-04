@@ -54,7 +54,7 @@ Binged NFT:ETH Online Banking is a decentralized application (dApp) built on Eth
 4. Deposit and withdraw ETH as needed.
 
 ## Smart Contract Details
-- **Contract Address**: `<contract_address>`
+- **Contract Address**: `<0x5FbDB2315678afecb367f032d93F642f64180aa3>`
 - **ABI**: The ABI file is located in the `artifacts/contracts/Assessment.sol/Assessment.json`.
 
 ## Contributing
